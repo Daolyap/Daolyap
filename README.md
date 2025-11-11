@@ -12,6 +12,8 @@ Currently: *Engineering a home network sensor & vulnerability monitor*
 🌐 devious.work
 🧊 voxel.place  
 💻 daolyap.dev
+🤖 please-touch.me
+🤖 paranoid-schizophrenic.tech
 📧 loganth.business@gmail.com
 ```
 
