@@ -11,10 +11,10 @@ Currently: *Engineering a home network sensor & vulnerability monitor*
 ```
 🌐 devious.work
 🧊 voxel.place  
-💻 daolyap.dev
+💻 daolyap.dev - No content
 🤖 please-touch.me
 🤖 paranoid-schizophrenic.tech
-📧 loganth.business@gmail.com
+📧 loganth.business@gmail.com - Checked irregularly
 ```
 
 ---
