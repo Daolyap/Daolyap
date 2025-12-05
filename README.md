@@ -8,7 +8,6 @@ Currently: *Engineering a home network sensor & vulnerability monitor*
 
 ### 🔗 Links
 
-```
 🌐 devious.work
 🍛 [Cook Book XYZ](https://cook-book.xyz)
 🧊 [Voxel Place](https://voxel.place)
@@ -16,7 +15,6 @@ Currently: *Engineering a home network sensor & vulnerability monitor*
 🤖 please-touch.me
 🤖 paranoid-schizophrenic.tech
 📧 loganth.business@gmail.com - Checked irregularly
-```
 
 ---
 
