@@ -10,7 +10,8 @@ Currently: *Engineering a home network sensor & vulnerability monitor*
 
 ```
 🌐 devious.work
-🧊 voxel.place  
+🍛 [Cook Book XYZ](https://cook-book.xyz)
+🧊 [Voxel Place](https://voxel.place)
 💻 daolyap.dev - No content
 🤖 please-touch.me
 🤖 paranoid-schizophrenic.tech
