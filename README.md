@@ -1,5 +1,7 @@
 # Daolyap
 
+I am currently educating myself on Java for a module in my university course. It's aight.
+
 ## Domains
 
 devious.work <br>
